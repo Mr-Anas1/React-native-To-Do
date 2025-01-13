@@ -1,2 +1,2 @@
-### To-Do
-## Simple To-Do app using React Native
+## To-Do
+### Simple To-Do app using React Native
